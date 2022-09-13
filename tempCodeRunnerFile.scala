@@ -1,0 +1,1 @@
+countInterests(accountList)
